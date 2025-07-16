@@ -58,7 +58,7 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 - Git y GitHub
 - Python intermedio
 - Entorno de desarrollo individual
-- Proyecto
+- Proyecto: <span><a href="https://github.com/IsraGar/sprint7_project">Ir a proyecto de Sprint 7</span>
 
 ### Sprint 8
 #### Recopilación y almacenamiento de datos (SQL)
