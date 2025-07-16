@@ -13,6 +13,8 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 - Listas
 - Proyecto
 
+*Enlace proyecto* <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint01/Proyecto_sprint_01.ipynb"></a>Sprint 1</span>
+
 ### Sprint 2
 #### Python básico (continuación)
 - Bucles
