@@ -8,6 +8,7 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 
 ### Sprint 1
 #### Python básico
+<div align="center"><img src="images/sprint1.png" alt="Descripción de la imagen"></div>
 - Variables, tipos de datos y operaciones aritméticas
 - String
 - Listas
