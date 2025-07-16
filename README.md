@@ -13,7 +13,7 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 - Listas
 - Proyecto
 
-*Enlace proyecto:* <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint01/Proyecto_sprint_01.ipynb">Sprint 1</a></span>
+*Enlace proyecto:* <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint01/Proyecto_sprint_01.ipynb">Sprint 1</span>
 
 ### Sprint 2
 #### Python básico (continuación)
@@ -22,6 +22,8 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 - Diccionarios
 - Funciones
 - Proyecto
+
+*Enlace proyecto:* <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint02/Proyecto_sprint_02.ipynb">Sprint 2</span>
 
 ### Sprint 3
 #### Manipulación de datos (Data Wrangling)
@@ -32,6 +34,8 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 - Filtrado de datos
 - Proyecto
 
+*Enlace proyecto:* <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint03/Proyecto_sprint_03.ipynb">Sprint 3</span>
+
 ### Sprint 4
 #### Manipulación de datos (Data Wrangling, continuación)
 - Tipos de datos
@@ -40,6 +44,8 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 - Visualización de datos 
 - Proyecto
 
+*Enlace proyecto:* <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint04/Proyecto_sprint_04.ipynb">Sprint 4</span>
+
 ### Sprint 5
 #### Análisis estadístico de datos
 - Estadística descriptiva
@@ -47,11 +53,15 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 - Prueba de hipótesis
 - Proyecto
 
+*Enlace proyecto:* <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint05/Proyecto_sprint_05.ipynb">Sprint 5</span>
+
 ### Sprint 6
 #### Proyecto integrador del módulo 1 (Sprint 1 al 5)
 - Trabajar con la documentación
 - Aprender Python más a fondo
 - Proyecto
+
+*Enlace proyecto:* <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint06/Proyecto_sprint_06.ipynb">Sprint 6</span>
 
 ### Sprint 7
 #### Herramientas de desarrollo de software
