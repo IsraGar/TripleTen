@@ -79,7 +79,7 @@ Este es un repositorio de evidencia del trabajo realizado durante cada sprint en
 - Funciones avanzadas de SQL para analistas
 - Relaciones entre tablas
 - Soft skills
-- Proyecto
+- Proyecto <span><a href="https://github.com/IsraGar/TripleTen/blob/main/Sprint08/Proyecto_sprint_08.ipynb">Sprint 8</span>
 
 ### Sprint 9
 #### Análisis de negocio
